@@ -12,3 +12,6 @@
   "iat": 1619124809,
   "exp": 1619125409
 }
+
+
+API_KEY = AIzaSyDWI74ph9unRxi64u9wafxxnQHvGYeIvxs
